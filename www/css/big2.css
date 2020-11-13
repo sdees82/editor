@@ -1,0 +1,17 @@
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.editor{
+    width: 80%;
+    height: 500px;
+    background: #ededed;
+    margin: auto;
+    padding: 1rem;
+}
+
+.word:hover{
+    background: green;
+}
